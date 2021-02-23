@@ -1,0 +1,17 @@
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.csprojAssemblyReference.cache
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.AssemblyInfoInputs.cache
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.AssemblyInfo.cs
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.csproj.CoreCompileInputs.cache
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/grpc-practice.deps.json
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/grpc-practice.runtimeconfig.json
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/grpc-practice.runtimeconfig.dev.json
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/grpc-practice.dll
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/ref/grpc-practice.dll
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/grpc-practice.pdb
+/Users/chiayuan/dev/grpc-practice/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.csproj.CopyComplete
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.dll
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/ref/grpc-practice.dll
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.pdb
+/Users/chiayuan/dev/grpc-practice/obj/Debug/net5.0/grpc-practice.genruntimeconfig.cache
